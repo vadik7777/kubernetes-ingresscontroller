@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: ingress-nginx
+  name: ingress-nginx-main
   labels:
     app.kubernetes.io/name: ingress-nginx-main
     app.kubernetes.io/instance: ingress-nginx
